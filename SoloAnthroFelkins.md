@@ -19,8 +19,8 @@
 
 #### `embeddings:`
 
-- SimpleNegative | Negative TI | V3: 1
-- Pony PDXL Negative Embeddings | XXX Rating: 1
+- SimpleNegative Negative TI V3 | Trigger: `SimpleNegativeV3` => will go in negative prompt.
+- Pony PDXL Negative Embeddings XXX Rating | Trigger: `zPDXLxxx` => will go in negative prompt.
 
 #### `Prompt:`
 ((beautiful, high quality))), score_9, score_8_up, score_7_up, score_9, score_8_up, score_8, masterpiece, best quality, unrealistically high details, extremely high quality, ultra high detail, good anatomy, rating_explicit, perfect anatomy, anatomically correct hands:1.5, Detailed ,((detailed background)), 
