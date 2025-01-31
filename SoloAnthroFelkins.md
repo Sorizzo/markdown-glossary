@@ -19,7 +19,7 @@
 
 #### `embeddings:`
 
-- SimpleNegative | Negative TI | V3
+- SimpleNegative | Negative TI | V3: 1
 - Pony PDXL Negative Embeddings | XXX Rating: 1
 
 #### `Prompt:`
