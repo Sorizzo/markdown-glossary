@@ -3,8 +3,8 @@
 ## Solo Anthro Felkins
 
 ### By `ErebosNoir` @ `https://civitai.com/user/ErebosNoir`
-<img src="https://sorizzo.github.io/markdown-glossary/images/SoloFelkin.jpeg" alt="Solo Felkins" width="50%" />
-<img src="https://sorizzo.github.io/markdown-glossary/images/SoloFelkin2.jpeg" alt="Solo Felkins" width="50%" />
+<img src="https://sorizzo.github.io/markdown-glossary/images/SoloFelkin.jpeg" alt="Solo Felkins" width="40%" />
+<img src="https://sorizzo.github.io/markdown-glossary/images/SoloFelkin2.jpeg" alt="Solo Felkins" width="40%" />
 
 ### Checkpoint / Lora / Embedding Information
 - `Checkpoint` Pony Diffusion V6 XL
